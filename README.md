@@ -1,7 +1,7 @@
 ## Hi there 👋
 <div align="center">
     <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Mathavan;This+is..;..my+Github..;" alt="Typing SVG"/>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Karthikeyan;This+is..;..my+Github..;" alt="Typing SVG"/>
     </h1>
 </div>
 
@@ -63,20 +63,20 @@
 </div>
 <h1>Stats</h1>
 <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=Mathavan208&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Karthikeyan-210701111&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/>
 </div>
 
 
 <div>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mathavan208&theme=github_dark" alt="[Your Name]'s GitHub Stats"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Karthikeyan-210701111&theme=github_dark" alt="[Your Name]'s GitHub Stats"/>
 </div>
 <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathavan208&theme=vue-dark&show_icons=true&hide_border=true&layout=compact
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthikeyan-210701111&theme=vue-dark&show_icons=true&hide_border=true&layout=compact
 "/>
 </div>
 
 <div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mathavan208&theme=vue-dark&hide_border=true"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karthikeyan-210701111&theme=vue-dark&hide_border=true"/>
 </div>
 
 <!--
